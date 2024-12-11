@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\Roben\\source\\C\\uppgift",
+            "binaryPath": "c:\\Users\\Roben\\source\\C\\uppgift\\main.exe",
+            "binaryArgs": []
+        }
+    ]
+}
